@@ -1,0 +1,14 @@
+{
+  "name": "gp-njs",
+  "description": "",
+  "type": "commonjs",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc -b && node build/index.js"
+  },
+  "types": "index.d.ts",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
