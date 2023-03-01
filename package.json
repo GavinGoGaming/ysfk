@@ -1,9 +1,9 @@
 {
-  "name": "gp-njs",
-  "description": "",
-  "type": "commonjs",
-  "version": "0.0.1",
+  "name": "yfsk",
+  "description": "Your Fullstack Kit",
+  "version": "1.0.0",
   "main": "index.ts",
+  "type": "module",
   "scripts": {
     "start": "tsc -b && node build/index.js"
   },
